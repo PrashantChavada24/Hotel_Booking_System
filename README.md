@@ -69,8 +69,7 @@ The Hotel Booking System allows users to view available rooms, make bookings, an
 ---
 
 ## 📷 Screenshots
-
-![Admin Panel](https://github.com/username/repository-name/blob/main/screenshots(54).png)
+![Admin Dashboard](https://github.com/PrashantChavada24/Hotel_Booking_System-/blob/41777e637ef91d1fb8c0e94478561478440551de/Screenshot%20(54).png)
 
 
 ---
